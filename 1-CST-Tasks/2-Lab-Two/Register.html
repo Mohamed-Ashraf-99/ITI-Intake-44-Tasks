@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register | Page</title>
+    <link rel="stylesheet" href="CSS/Register.css">
+</head>
+<body>
+    <div class="container">
+    <h1>Register Form</h1>
+    <form action="https://formspree.io/f/mbjvqlby" method="post">
+        <table>
+            <tr>
+                <td><label for="">First Name: </label></td>
+                <td><input type="text" name="Fname"></td>
+            </tr>
+            <tr>
+                <td><label for="">Last Name: </label></td>
+                <td><input type="text" name="Lname"></td>
+            </tr>
+            <tr>
+                <td><label for="">Email: </label></td>
+                <td><input type="email" name="email"></td>
+            </tr>
+            <tr>
+                <td><label for="">Password: </label></td>
+                <td><input type="password" name="pass"></td>
+            </tr>
+            <tr>
+                <td><label for="">Gender: </label></td>
+                <td>
+                    <label for="">Male: </label>
+                    <input type="radio" name="gender">
+                    <label for="">Female: </label>
+                    <input type="radio" name="gender">
+                </td>
+            </tr>
+            <tr>
+                <td><label>Country: </label></td>
+                <td>
+                    <select name = "userCountry">
+                        <option value="EG">Egypt</option>
+                        <option value="EN">England</option>
+                        <option value="SA">Saudi Arabia</option>
+                        <option value="FR">France</option>
+                        <option value="GE">Germany</option>
+                        <option value="IT">Italy</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label >Birthday: </label></td>
+                <td><input type="date"></td>
+            </tr>
+            <tr>
+                <td><label>Interest: </label></td>
+                <td>
+                    <input type="checkbox">
+                    <label for="">Sports</label>
+                    <input type="checkbox">
+                    <label for="">Music</label>
+                    <input type="checkbox">
+                    <label for="">Reading Books</label>
+                </td>
+            </tr>
+            <tr>
+               <td colspan="2">
+                <button type="submit">Submit</button>
+               </td>
+            </tr>
+        </table>        
+    </form>
+</div>
+</body>
+</html>

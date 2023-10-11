@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(255,216,217,255);
+}
+
+
+
+.copy-rights img{
+    width: 200px;
+    height: 100px;
+    margin-left: 40%;
+}
+
+.copy-rights p{
+    text-align: center;
+}
