@@ -1,0 +1,24 @@
+
+The difference between %I and %d in C is that %I is a format specifier for 
+integers of any base, while %d is a format specifier for decimal integers. 
+This means that %I can be used to read and write integers in decimal, octal,
+ or hexadecimal format, 
+ while %d can only be used to read and write integers in decimal format.
+
+When using %I in scanf(),
+the compiler will automatically detect the base of the input integer based on 
+the prefix of the input. 
+or example, 
+if the input integer is prefixed with 0, 
+the compiler will interpret it as an octal integer. 
+If the input integer is prefixed with 0x, 
+the compiler will interpret it as a hexadecimal integer. 
+Otherwise, the compiler will interpret it as a decimal integer.
+
+When using %d in scanf(), 
+the compiler will assume that the input integer is in decimal format. 
+If the input integer is not in decimal format, 
+the compiler will produce an error.
+
+When using %I or %d in printf(), 
+the compiler will simply print the integer value in the specified format.
