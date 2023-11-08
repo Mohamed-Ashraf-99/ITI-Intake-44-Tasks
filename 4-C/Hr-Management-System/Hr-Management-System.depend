@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699456544 source:d:\1-programming\2-iti-intake-44\5-c\hr-management-system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
