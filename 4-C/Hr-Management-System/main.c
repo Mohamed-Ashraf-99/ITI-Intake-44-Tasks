@@ -314,6 +314,7 @@ void showData( Employee emp[],int x)
     gotoxy(55, 20);
     printf("Net Salary: %0.2f\n", netSalary);
 }
+
 ///Display Employee data
 void display_data(Employee emp[], int id)
 {
