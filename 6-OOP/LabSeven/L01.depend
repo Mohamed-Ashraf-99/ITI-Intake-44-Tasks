@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1701264240 source:d:\study_material\iti\labs\5. oop\d05\l01\main.cpp
+	<iostream>
+	"C:\Program Files\CodeBlocks\MinGW\include\graphics.h"
+
+1699263962 c:\program files\codeblocks\mingw\include\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
+1701342322 source:d:\1-programming\2-iti-intake-44\8-oop\day5\labfive\labfive\main.cpp
+	<iostream>
+	"C:\Program Files\CodeBlocks\MinGW\include\graphics.h"
+
+1701702299 source:d:\1-programming\2-iti-intake-44\8-oop\day7\labseven\main.cpp
+	<iostream>
+	"C:\Program Files\CodeBlocks\MinGW\include\graphics.h"
+
