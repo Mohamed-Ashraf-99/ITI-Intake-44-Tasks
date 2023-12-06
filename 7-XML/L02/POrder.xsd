@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.iti.gov.eg/"
+           xmlns="http://www.iti.gov.eg/">
+    
+    <xs:complexType name="shipToType">
+        <xs:sequence>
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="xs:string" name="street"/>
+            <xs:element type="xs:string" name="city"/>
+            <xs:element type="xs:string" name="state"/>
+            <xs:element type="xs:string" name="zip"/>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="country"/>
+    </xs:complexType>
+    
+    <xs:complexType name="billToType">
+        <xs:sequence>
+            <xs:element type="xs:string" name="name"/>
+            <xs:element type="xs:string" name="street"/>
+            <xs:element type="xs:string" name="city"/>
+            <xs:element type="xs:string" name="state"/>
+            <xs:element type="xs:string" name="zip"/>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="country"/>
+    </xs:complexType>
+    
+    <xs:complexType name="itemType">
+        <xs:sequence>
+            <xs:element type="xs:string" name="productName"/>
+            <xs:element type="xs:integer" name="quantity"/>
+            <xs:element type="xs:decimal" name="USPrice"/>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="partNum"/>
+    </xs:complexType>
+    
+    <xs:complexType name="itemsType">
+        <xs:sequence>
+            <xs:element type="itemType" name="item" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="ship_methodType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute type="xs:string" name="type"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <xs:complexType name="purchaseOrderType">
+        <xs:sequence>
+            <xs:element type="shipToType" name="shipTo"/>
+            <xs:element type="billToType" name="billTo"/>
+            <xs:element type="itemsType" name="items"/>
+            <xs:element type="xs:string" name="ship_date"/>
+            <xs:element type="ship_methodType" name="ship_method"/>
+        </xs:sequence>
+        <xs:attribute type="xs:string" name="orderDate"/>
+    </xs:complexType>
+    
+    <xs:element name="purchaseOrder" type="purchaseOrderType"/>
+</xs:schema>

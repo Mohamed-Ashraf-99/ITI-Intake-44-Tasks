@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.iti.gov.eg/"
+           xmlns="http://www.iti.gov.eg/">
+  <xs:element name="family" type="familyType"/>
+  <xs:complexType name="motherType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="name"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="daughterType" mixed="true">
+    <xs:sequence>
+      <xs:element type="xs:string" name="name" minOccurs="0"/>
+      <xs:element type="xs:string" name="child" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="age"/>
+    <xs:attribute type="xs:string" name="job"/>
+  </xs:complexType>
+  <xs:complexType name="sonType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="age"/>
+        <xs:attribute type="xs:string" name="sport"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="fatherType">
+    <xs:sequence>
+      <xs:element type="motherType" name="mother"/>
+      <xs:element type="daughterType" name="daughter" maxOccurs="unbounded" minOccurs="0"/>
+      <xs:element type="sonType" name="son"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="job"/>
+    <xs:attribute type="xs:string" name="name"/>
+  </xs:complexType>
+  <xs:complexType name="auntType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="sons"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="grandfatherType" mixed="true">
+    <xs:sequence>
+      <xs:element type="fatherType" name="father"/>
+      <xs:element name="uncle" maxOccurs="unbounded" minOccurs="0">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="abd el fatah"/>
+            <xs:enumeration value="reda"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="auntType" name="aunt"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="familyType">
+    <xs:sequence>
+      <xs:element type="grandfatherType" name="grandfather"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
