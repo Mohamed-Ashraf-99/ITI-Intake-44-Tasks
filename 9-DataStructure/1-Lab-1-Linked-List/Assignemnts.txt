@@ -1,0 +1,17 @@
+Day1 - LinkedList:
+        void InsertAfter(int data, int afterData); 	// indsert node after given node
+        int GetCount();		 	// get number of nodes 
+        int GetByIndex(int index);		 	// get data in the given 
+===============================================================
+Day2 - Stack & Queue
+	* implement stack using linked list
+	* implement Queue using linked list
+	* implement Shifting  Queue using array
+	* implement Circular Queue using array
+===============================================================
+Day3 - Sort & Search
+	* Implement BubbleSort on linked list
+	* Implement BinarySearch on linked list
+===============================================================
+Day4 - BinarySearch tree
+	 int GetMaxDepth();		// get the max level of the tree
