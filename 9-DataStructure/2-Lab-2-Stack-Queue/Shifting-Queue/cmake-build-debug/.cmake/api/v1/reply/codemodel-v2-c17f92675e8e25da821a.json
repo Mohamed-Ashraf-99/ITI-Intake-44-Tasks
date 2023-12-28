@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Shifting_Queue",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Shifting_Queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Shifting_Queue-Debug-68b46e97af597c570fc1.json",
+					"name" : "Shifting_Queue",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/1-Programming/2-ITI-Intake-44/11-DataStructure/DayTwo/2-Lab-2/Shifting-Queue/cmake-build-debug",
+		"source" : "D:/1-Programming/2-ITI-Intake-44/11-DataStructure/DayTwo/2-Lab-2/Shifting-Queue"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
