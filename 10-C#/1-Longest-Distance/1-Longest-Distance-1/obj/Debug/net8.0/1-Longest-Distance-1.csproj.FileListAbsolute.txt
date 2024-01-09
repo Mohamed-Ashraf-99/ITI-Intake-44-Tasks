@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\bin\Debug\net8.0\1-Longest-Distance-1.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\bin\Debug\net8.0\1-Longest-Distance-1.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\bin\Debug\net8.0\1-Longest-Distance-1.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\bin\Debug\net8.0\1-Longest-Distance-1.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\bin\Debug\net8.0\1-Longest-Distance-1.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\1-Longest-Distance-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\1-Longest-Distance-1.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\1-Longest-Distance-1.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\1-Longest-Distance-1.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\1-Longest-Distance-1.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\refint\1-Longest-Distance-1.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\1-Longest-Distance-1.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\1-Longest-Distance-1.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\1-Longest-Distance-1\obj\Debug\net8.0\ref\1-Longest-Distance-1.dll

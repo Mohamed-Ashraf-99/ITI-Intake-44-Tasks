@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\bin\Debug\net8.0\2-Reverse-Words.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\bin\Debug\net8.0\2-Reverse-Words.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\bin\Debug\net8.0\2-Reverse-Words.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\bin\Debug\net8.0\2-Reverse-Words.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\bin\Debug\net8.0\2-Reverse-Words.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\2-Reverse-Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\2-Reverse-Words.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\2-Reverse-Words.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\2-Reverse-Words.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\2-Reverse-Words.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\refint\2-Reverse-Words.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\2-Reverse-Words.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\2-Reverse-Words.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\2-Day-Two\2-Lab-2\1-Longest-Distance-1\2-Reverse-Words\obj\Debug\net8.0\ref\2-Reverse-Words.dll
