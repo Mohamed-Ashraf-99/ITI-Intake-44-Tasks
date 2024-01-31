@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\bin\Debug\net8.0\10-Lab-Ten.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\bin\Debug\net8.0\10-Lab-Ten.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\bin\Debug\net8.0\10-Lab-Ten.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\bin\Debug\net8.0\10-Lab-Ten.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\bin\Debug\net8.0\10-Lab-Ten.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\10-Lab-Ten.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\10-Lab-Ten.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\10-Lab-Ten.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\10-Lab-Ten.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\10-Lab-Ten.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\refint\10-Lab-Ten.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\10-Lab-Ten.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\10-Lab-Ten.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\10-Day-10\10-Lab-Ten\10-Lab-Ten\obj\Debug\net8.0\ref\10-Lab-Ten.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "3- SetOperators/1.0.0": {
+        "dependencies": {
+          "LabEleven": "1.0.0"
+        },
+        "runtime": {
+          "3- SetOperators.dll": {}
+        }
+      },
+      "LabEleven/1.0.0": {
+        "runtime": {
+          "LabEleven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3- SetOperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LabEleven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

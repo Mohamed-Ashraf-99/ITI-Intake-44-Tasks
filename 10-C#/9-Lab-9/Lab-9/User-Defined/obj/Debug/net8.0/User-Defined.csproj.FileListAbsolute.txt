@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\bin\Debug\net8.0\User-Defined.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\bin\Debug\net8.0\User-Defined.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\bin\Debug\net8.0\User-Defined.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\bin\Debug\net8.0\User-Defined.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\bin\Debug\net8.0\User-Defined.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\User-Defined.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\User-Defined.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\User-Defined.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\User-Defined.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\User-Defined.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\refint\User-Defined.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\User-Defined.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\User-Defined.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\9-Day-nine\9-Lab-9\Lab-9\User-Defined\obj\Debug\net8.0\ref\User-Defined.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BCL/1.0.0": {
+        "dependencies": {
+          "User-Defined": "1.0.0"
+        },
+        "runtime": {
+          "BCL.dll": {}
+        }
+      },
+      "User-Defined/1.0.0": {
+        "runtime": {
+          "User-Defined.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BCL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "User-Defined/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

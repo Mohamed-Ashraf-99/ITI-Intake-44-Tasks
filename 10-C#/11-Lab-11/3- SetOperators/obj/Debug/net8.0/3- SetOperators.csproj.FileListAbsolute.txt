@@ -1,0 +1,21 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\LabEleven.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\LabEleven.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\LabEleven.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\3- SetOperators.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\3- SetOperators.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\3- SetOperators.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\3- SetOperators.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\3- SetOperators.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\LabEleven.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\bin\Debug\net8.0\LabEleven.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.csproj.AssemblyReference.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.csproj.CopyComplete
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\refint\3- SetOperators.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\3- SetOperators.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Lab-11\3- SetOperators\obj\Debug\net8.0\ref\3- SetOperators.dll

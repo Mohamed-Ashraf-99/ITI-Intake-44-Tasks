@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\bin\Debug\net8.0\NICTASK.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\bin\Debug\net8.0\NICTASK.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\bin\Debug\net8.0\NICTASK.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\bin\Debug\net8.0\NICTASK.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\bin\Debug\net8.0\NICTASK.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\NICTASK.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\NICTASK.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\NICTASK.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\NICTASK.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\NICTASK.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\refint\NICTASK.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\NICTASK.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\NICTASK.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\NICTASK\obj\Debug\net8.0\ref\NICTASK.dll

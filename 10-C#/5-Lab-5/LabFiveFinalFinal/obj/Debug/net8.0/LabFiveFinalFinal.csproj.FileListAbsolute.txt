@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\bin\Debug\net8.0\LabFiveFinalFinal.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\bin\Debug\net8.0\LabFiveFinalFinal.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\bin\Debug\net8.0\LabFiveFinalFinal.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\bin\Debug\net8.0\LabFiveFinalFinal.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\bin\Debug\net8.0\LabFiveFinalFinal.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\LabFiveFinalFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\LabFiveFinalFinal.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\LabFiveFinalFinal.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\LabFiveFinalFinal.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\LabFiveFinalFinal.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\refint\LabFiveFinalFinal.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\LabFiveFinalFinal.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\LabFiveFinalFinal.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\LabFiveFinalFinal\obj\Debug\net8.0\ref\LabFiveFinalFinal.dll

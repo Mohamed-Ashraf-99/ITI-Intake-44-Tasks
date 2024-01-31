@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\bin\Debug\net8.0\8-GroupingOperators.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\bin\Debug\net8.0\8-GroupingOperators.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\bin\Debug\net8.0\8-GroupingOperators.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\bin\Debug\net8.0\8-GroupingOperators.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\bin\Debug\net8.0\8-GroupingOperators.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\8-GroupingOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\8-GroupingOperators.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\8-GroupingOperators.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\8-GroupingOperators.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\8-GroupingOperators.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\refint\8-GroupingOperators.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\8-GroupingOperators.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\8-GroupingOperators.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\11-Day-11\11-Lab-11\8-GroupingOperators\obj\Debug\net8.0\ref\8-GroupingOperators.dll

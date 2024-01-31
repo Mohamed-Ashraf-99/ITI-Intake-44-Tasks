@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\bin\Debug\net8.0\MathTask.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\bin\Debug\net8.0\MathTask.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\bin\Debug\net8.0\MathTask.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\bin\Debug\net8.0\MathTask.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\bin\Debug\net8.0\MathTask.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\MathTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\MathTask.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\MathTask.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\MathTask.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\MathTask.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\refint\MathTask.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\MathTask.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\MathTask.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\5-Day-Five\Day 5\LabFiveFinalFinal\MathTask\obj\Debug\net8.0\ref\MathTask.dll
