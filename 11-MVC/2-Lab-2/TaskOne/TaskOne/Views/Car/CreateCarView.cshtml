@@ -1,0 +1,42 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add New Car</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/css/addCar.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Add New Car</h1>
+        <form method="post" action="/Car/CreateCar">
+            <div class="form-group">
+                <label for="number">Number:</label>
+                <input type="text" id="number" name="Num" placeholder="Enter Number" required>
+            </div>
+            <div class="form-group">
+                <label for="color">Color:</label>
+                <input type="text" id="color" name="Color" placeholder="Enter Color" required>
+            </div>
+            <div class="form-group">
+                <label for="model">Model:</label>
+                <input type="text" id="model" name="Model" placeholder="Enter Model" required>
+            </div>
+            <div class="form-group">
+                <label for="manufacture">Manufacture:</label>
+                <input type="text" id="manufacture" name="Manfacture" placeholder="Enter Manufacture" required>
+            </div>
+            <div class="form-group">
+                <label for="image">Image:</label>
+                <input type="text" id="image" name="image" placeholder="Enter Image path" required>
+            </div>
+            <button type="submit" class="saveBtn">Save</button>
+            @* <input type="submit" value="Save" class="saveBtn" /> *@
+        </form>
+    </div>
+</body>
+</html>

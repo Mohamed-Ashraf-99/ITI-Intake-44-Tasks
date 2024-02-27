@@ -1,0 +1,103 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div class="container" style="display: flex;">
+
+        <div style="width: 50%;" class="formContainer" style="padding: 20px;">
+            <form>
+                <label>Choose background</label>
+                <br />
+                <select name="ChooseBackground" "width : 200px; ">
+                    <option value="0"> 0 </option>
+                    <option value="1"> 1 </option>
+                    <option value="2"> 2 </option>
+                    <option value="3"> 3 </option>
+                    <option value="4"> 4 </option>
+                    <option value="5"> 5 </option>
+                    <option value="6"> 6 </option>
+                    <option value="7"> 7 </option>
+                    <option value="8"> 8 </option>
+                    <option value="9"> 9 </option>
+                    <option value="10"> 10 </option>
+                    <option value="11"> 11 </option>
+                </select>
+                <br />
+                <label>Choose font color:</label>
+                <br />
+                <select style="width : 200px;" name="colors">
+                    <option value="black"> black </option>
+                    <option value="red"> red </option>
+                    <option value="green"> green </option>
+                </select>
+                <br />
+                <br />
+                <br />
+                <hr />
+                <label>Choose a greetimg Type: </label>
+                <br />
+
+
+                <input type="radio" name="rad" value="bd.jpg">
+                <label>Birthday</label>
+                <br />
+                <input type="radio" name="rad" value="well.gif">
+                <label>Get Well Soon</label>
+                <br />
+                <input type="radio" name="rad" value="val.bmp">
+                <label>Valentine</label>
+                <br />
+                <input type="radio" name="rad" value="congrats.gif">
+                <label>Congrats</label>
+                <br />
+
+                <input type="checkbox" name="AddthePicture" value="AddthePicture">
+                <label>Add the Picture</label>
+                <br />
+                <label>Enter the greeting Message below: </label>
+                <br />
+                <br />
+                <input type="text" id="myText" name="Message">
+                <br />
+                <br />
+
+                <input type="submit" name="Preview" style="width : 200px" />
+
+            </form>
+
+
+        </div>
+
+        <div style="width: 50%; display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;" class="containerImage">
+            @{
+                string imgPath = "/backgrounds/" + @Request["ChooseBackground"] + ".jpg";
+            }
+            <img src="@imgPath" alt="" style="width: 100%; height: 100%" />
+
+            @if (Request["AddthePicture"] == "AddthePicture")
+            {
+                string imgPathTwo = "/images/" + @Request["rad"];
+                <div class="column" style="text-align: center;">
+                    <img src="@imgPathTwo" alt="" style="width: 100px; height: 100px" />
+                    <br />
+                    <p style="color: @Request["colors"]">
+                        @Request["Message"]
+                    </p>
+                </div>
+            }
+        </div>
+
+
+
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,94 @@
+﻿@using BLL.ModelVM;
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Your.Assembly.Name
+
+@model EmployeeVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card m-5" style="width:60rem;margin:auto;">
+    <h1>Add Department</h1>
+    <div class="card-body">
+        @* <form asp-action="" asp-controller="" enctype="multipart/form-data"> *@
+        <form method="post" asp-action="Create">
+
+            <div class="mb-3">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label">Employee Name</label>
+                    <input type="text" asp-for="Name" class="form-control" id="EmployeeName" maxlength="50">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Employee Email</label>
+                <input type="text" asp-for="Email" class="form-control" id="Email" aria-describedby="">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label">Employee Password</label>
+                <input type="text" asp-for="Password" class="form-control" id="password" aria-describedby="">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+
+            <div class="mb-3">
+                <label asp-for="DeptId" class="form-label">Department Name</label>
+                <select asp-for="DeptId" class="form-control" id="DeptID" aria-describedby="">
+                    <option value=""></option>
+                    @foreach (var department in Model.Departments)
+                    {
+                        <option value="@department.DepartmentId">@department.Name</option> 
+                    }
+                </select>
+                <span asp-validation-for="DeptId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+           @*      <label asp-for="MgrHireDate" class="form-label">Manager Hire Date </label>
+                <input type="date" asp-for="MgrHireDate" class="form-control" id="MgrHireDate" aria-describedby="">
+                <span asp-validation-for="MgrHireDate" class="text-danger"></span> *@
+            </div>
+
+           
+
+            <div class="mb-3">
+                <label asp-for="joinDate" class="form-label">Employee Hire Date</label>
+                <input type="date" asp-for="joinDate" class="form-control" id="joinDate" aria-describedby="">
+                <span asp-validation-for="joinDate" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="phoneNum" class="form-label">Employee Phone Number</label>
+                <input type="number" asp-for="phoneNum" class="form-control" id="phone" aria-describedby="">
+                <span asp-validation-for="phoneNum" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Salary" class="form-label">Employee Salary</label>
+                <input type="number" asp-for="Salary" class="form-control" id="salary" aria-describedby="">
+                <span asp-validation-for="phoneNum" class="text-danger"></span>
+            </div>
+
+
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-primary">Reset</button>
+                <button type="" asp-controller="Employee" asp-action="ShowAllEmployees" class="btn btn-outline-secondary">Cancel</button>
+
+            </div>
+
+        </form>
+        </<div>
+        </div>
+
+        @section JS {
+            @{
+                Html.RenderPartial("_ValidationScriptsPartial");
+            }
+
+        }
+

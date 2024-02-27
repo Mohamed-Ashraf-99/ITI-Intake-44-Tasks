@@ -1,0 +1,111 @@
+/* Reset CSS */
+html, body, header, main, footer {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #f5f5f5;
+    justify-content : center;
+}
+
+header {
+    background-color: #3d464d;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.container {
+    width: 400px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding-left: 500px;
+}
+
+    .container .card:hover {
+        box-shadow: 7px 9px 11px -5px gray;
+    }
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.container .card:hover img {
+    transform: scale(1.2);
+    opacity: 0.4;
+}
+
+.details {
+    padding: 20px;
+}
+
+    .details p {
+        margin-bottom: 10px;
+    }
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3d464d;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+    .btn:hover {
+        background-color: #1f2326;
+    }
+
+
+.container .selectBtn {
+    background: #3d464d;
+    color: white;
+    width: 120px;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: 2px solid white;
+    transition: 0.3s;
+}
+
+    .container .selectBtn:hover {
+        background-color: #ffd333;
+        color: #3d464d;
+        cursor: pointer;
+    }
+
+.input-section {
+    display: flex;
+    justify-content: center;
+}
+
+.textBox {
+    width: 73%;
+    height: 300px;
+}
+
+.generate-section {
+    display: flex;
+    justify-content: center;
+}

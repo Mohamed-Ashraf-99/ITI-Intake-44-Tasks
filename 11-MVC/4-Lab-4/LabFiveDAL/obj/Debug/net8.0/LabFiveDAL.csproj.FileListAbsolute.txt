@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\bin\Debug\net8.0\LabFiveDAL.deps.json
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\bin\Debug\net8.0\LabFiveDAL.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\bin\Debug\net8.0\LabFiveDAL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\bin\Debug\net8.0\LabFiveDAL.pdb
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.csproj.AssemblyReference.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\refint\LabFiveDAL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.pdb
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\LabFiveDAL.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\LabFiveDAL\obj\Debug\net8.0\ref\LabFiveDAL.dll

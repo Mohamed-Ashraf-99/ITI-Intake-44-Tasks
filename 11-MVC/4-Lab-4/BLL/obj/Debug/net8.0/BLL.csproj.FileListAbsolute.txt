@@ -1,0 +1,17 @@
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\bin\Debug\net8.0\BLL.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\bin\Debug\net8.0\BLL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\bin\Debug\net8.0\BLL.pdb
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.pdb
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\bin\Debug\net8.0\DAL.dll
+D:\1-Programming\2-ITI-Intake-44\24-MVC\5-Day5\5-Lab-5\LabFive\BLL\bin\Debug\net8.0\DAL.pdb

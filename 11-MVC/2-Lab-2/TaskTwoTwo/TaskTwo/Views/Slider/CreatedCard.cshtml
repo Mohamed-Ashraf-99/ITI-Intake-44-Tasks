@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+@model Slider
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Details</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>Card Details</h1>
+    </header>
+    <main>
+        <div class="container">
+            <div class="card">
+                <div class="image">
+                    <img src="~/images/@Model.Image" alt="">
+                </div>
+                <div class="details">
+                    <hr>
+                    <p><strong>Your ID:</strong> @Model.ID</p>
+                    <p><strong>Your Name:</strong> @Model.Name</p>
+                </div>
+                <footer>
+                    <a href="/Slider/CreateCardView" class="btn btn-dark">Back</a>
+                </footer>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

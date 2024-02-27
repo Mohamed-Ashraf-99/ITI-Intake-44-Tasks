@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+   
+}
+
+@model List<Slider>;
+
+<table class="table table-bordered table-hover">
+
+    <tr>
+        <th> Number </th>
+        <th> Color </th>
+        <th> Model </th>
+        <th> Manfacture </th>
+    </tr>
+    @foreach (Slider slider in Model)
+    {
+        <tr>
+            <td> @slider.ID </td>
+            <td> @slider.Name </td>
+            <td> @slider.Image </td>
+            <td> <a href="/Slider/GetCard/@slider.ID" class="btn btn-primary"> Select </a> </td>
+        </tr>
+    }
+    <a href="/Slider/CreateCard" class="btn btn-primary"> Create Card </a>
+</table>

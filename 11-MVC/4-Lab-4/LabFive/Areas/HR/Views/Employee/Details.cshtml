@@ -1,0 +1,33 @@
+﻿@using BLL.ModelVM;
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Employee Details</h1>
+
+@model EmployeeVM
+
+@{
+    ViewData["Title"] = "Employee Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <div class="card">
+                <h5 class="card-header"></h5>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <p class="card-text">Employee ID: @Model.Id</p>
+                    <p class="card-text">Email: @Model.Email</p>
+                    <p class="card-text">Password: @Model.Password</p>
+                    <p class="card-text">Phone: @Model.phoneNum</p>
+                    <p class="card-text">Hire Date: @Model.joinDate.ToString("MM/dd/yyyy")</p>
+                    <p class="card-text">Salary: $@Model.Salary</p>
+                    <p class="card-text">Department: @Model.Department.Name</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

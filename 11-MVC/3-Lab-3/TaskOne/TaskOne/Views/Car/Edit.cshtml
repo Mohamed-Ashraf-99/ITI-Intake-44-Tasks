@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+@model Car;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Car</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/css/addCar.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Edit Car Informations</h1>
+        <form method="post" action="/Car/EditSave">
+            <div class="form-group">
+                <label for="number">Number:</label>
+                <input type="number" id="number" name="Num" value="@Model.Num" required readonly>
+            </div> 
+            <div class="form-group">
+                <label for="color">Color:</label>
+                <input type="text" id="color" name="Color" value="@Model.Color" required>
+            </div>
+            <div class="form-group">
+                <label for="model">Model:</label>
+                <input type="text" id="model" name="Model" value="@Model.Model" required>
+            </div>
+            <div class="form-group">
+                <label for="manufacture">Manufacture:</label>
+                <input type="text" id="manufacture" name="Manfacture" value="@Model.Manfacture" required>
+            </div>
+            <div class="form-group">
+                <label for="image">Image:</label>
+                <input type="text" id="image" name="image" value="@Model.image" required>
+            </div>
+            <button type="submit" class="saveBtn">Save</button>
+       
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Details</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="~/css/style.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> 
+</head>
+<body>
+    <header>
+        <h1>Car Details</h1>
+    </header>
+    <main>
+        <div class="container">
+            <div class="card">
+                <div class="image">
+                    <img src="~/images/@Model.image" alt="">
+                </div>
+                <div class="details">
+                    <hr>
+                    <p><strong>Car Number:</strong> @Model.Num</p>
+                    <p><strong>Car Color:</strong> @Model.Color</p>
+                    <p><strong>Car Model:</strong> @Model.Model</p>
+                    <p><strong>Car Manufacturer:</strong> @Model.Manfacture</p>
+                </div>
+                <footer>
+                    <a href="/Car/GetAllCars" class="btn btn-dark">Back</a>
+                </footer>
+            </div>
+        </div>
+    </main>
+    
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+}
+
+<div>
+    <form>
+
+
+        Name: <input type="text" name="nameInut" />
+        <br />
+        Birthday: <input type="date" name="Birthday" />
+        <br />
+        <button type="submit" name="IsGraduated">Go</button>
+        <input type="checkbox" name="checkBox" />
+    </form>
+</div>
+
+
+@{
+    <p>
+        Hello @Request.QueryString["nameInut"]
+        <br>
+        Your Birthday is: @Request.QueryString["Birthday"]
+        @if (Request.QueryString["checkBox"] == "on")
+        {
+        <p> Yesss Iam Graduated</p>
+    }
+
+
+        </p>
+}

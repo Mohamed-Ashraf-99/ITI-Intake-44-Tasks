@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "GetAllCars";
+}
+
+<h1>GetAllCars</h1>
+
+<table class="table table-bordered table-hover">
+
+    <tr>
+        <th> Number </th>
+        <th> Color </th>
+        <th> Model </th>
+        <th> Manfacture </th>
+    </tr>
+    @foreach (Car car in Model)
+    {
+        <tr>
+            <td> @car.Num </td>
+            <td> @car.Color </td>
+            <td> @car.Model </td>
+            <td> @car.Manfacture </td>
+            <td> <a href="/Car/GetCar/@car.Num" class="btn btn-primary"> Select </a> </td>
+            <td> <a href="/Car/Edit/@car.Num" class="btn btn-secondary"> Edit </a> </td>
+            <td> <a href="/Car/DeleteCar/@car.Num" class="btn btn-danger"> Delete </a> </td>
+        </tr>
+    }
+    <a href="/Car/CreateCarView" class="btn btn-primary"> Add Car </a>
+</table>
+
